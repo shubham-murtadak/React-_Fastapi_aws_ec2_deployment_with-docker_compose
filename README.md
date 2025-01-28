@@ -1,5 +1,7 @@
-# React-_Fastapi_aws_ec2_deployment_with-docker_compose
-This repo contains details instructions to deploy React frontend + Fastapi backend + with aws ec2 instance + docker compose
+# React_FastAPI_AWS_EC2_Deployment_with_Docker_Compose 🚀🌐
+
+This repo contains detailed instructions to deploy a **React frontend** + **FastAPI backend** 🚀 with **AWS EC2 instance** and **Docker Compose** 🐳.
+
 
 
 # Deployment Documentation
